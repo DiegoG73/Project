@@ -9,6 +9,7 @@ python3 main.py
 
 # Charts Project
 ```sh
+python3 -m venv charts-env
 git clone
 cd charts
 source charts-env/bin/activate
